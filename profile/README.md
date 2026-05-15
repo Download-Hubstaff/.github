@@ -31,12 +31,6 @@ Whether you manage five people or five hundred, when you **download Hubstaff** y
 
 ---
 
-## Overview
-
-![Software Dashboard](https://thedigitalprojectmanager.com/wp-content/cache/thedigitalprojectmanager.com/static/static.crozdesk.com/web-app-library-analyst-review-assets-attachments-000-008-029-original-hubstaff-ease-of-use-screenshot.png)
-
----
-
 ## Key Features – Why You Should Download Hubstaff
 
 - **Automatic Time Tracking** – When you **download Hubstaff**, the timer runs in the background. No more "I forgot to start the clock."  
